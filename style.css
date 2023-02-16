@@ -261,6 +261,7 @@ picture {
     flex-direction: row;
     gap: 4rem;
     margin-top: auto;
+    text-align: left;
   }
 }
 
